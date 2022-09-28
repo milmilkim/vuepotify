@@ -1,0 +1,26 @@
+{
+  "ItemList": {
+    "description": "Auto imported from components/ItemList.vue"
+  },
+  "ItemSearch": {
+    "description": "Auto imported from components/ItemSearch.vue"
+  },
+  "MyModal": {
+    "description": "Auto imported from components/MyModal.vue"
+  },
+  "MyPlaylist": {
+    "description": "Auto imported from components/MyPlaylist.vue"
+  },
+  "MyProfile": {
+    "description": "Auto imported from components/MyProfile.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "PlaylistItem": {
+    "description": "Auto imported from components/PlaylistItem.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}

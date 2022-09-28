@@ -1,0 +1,30 @@
+[
+  {
+    "name": "playlist",
+    "path": "/playlist",
+    "component": "/Users/sorikim/project/type-nuxt-project/pages/playlist.vue",
+    "chunkName": "pages/playlist",
+    "_name": "_155c46ea"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/sorikim/project/type-nuxt-project/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_6afbb9a1"
+  },
+  {
+    "name": "detail-id",
+    "path": "/detail/:id?",
+    "component": "/Users/sorikim/project/type-nuxt-project/pages/detail/_id.vue",
+    "chunkName": "pages/detail/_id",
+    "_name": "_84416f16"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sorikim/project/type-nuxt-project/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_77ca862e"
+  }
+]
